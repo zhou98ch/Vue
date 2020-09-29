@@ -2,7 +2,7 @@
 
 > A Vue.js project
 vue学习成果
-![image](cardBattle/gif/cardbattlegif.gif)
+![image](https://github.com/zhou98ch/Vue/blob/master/cardBattle/gif/cardbattlegif.gif)
 
 ## Build Setup
 
